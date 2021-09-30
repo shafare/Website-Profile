@@ -1,2 +1,2 @@
 # Website-Profile
-Pembuatan website sederhana berisi profil dengan menggunakan bootstrap.
+Tugas membuat website sederhana berisi profil dengan menggunakan bootstrap.
