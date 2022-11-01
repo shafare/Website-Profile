@@ -1,2 +1,3 @@
 # Website-Profile
-Tugas membuat website sederhana berisi profil dengan menggunakan bootstrap.
+Tugas mata kuliah Pemrograman Web<br>
+Membuat website sederhana berisi profil dengan menggunakan bootstrap.
